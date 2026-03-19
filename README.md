@@ -34,7 +34,7 @@
 ---
 
 📈 GitHub Stats
-![Mahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Mahendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahendrareddy2006&show_icons=true&theme=dark)
 
 ---
 
