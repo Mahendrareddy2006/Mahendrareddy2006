@@ -18,8 +18,8 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-  Languages: Python, JavaScript, HTML, CSS  
-  Frameworks: FastAPI, Django  
+  Languages: Python, JavaScript, HTML, CSS, SQL, GEN-AI
+  Frameworks: FastAPI, Django, Flutter
   Tools: Git, GitHub, VS Code, Postman  
   Other: Trading (DOM, Tape Reading)
 
